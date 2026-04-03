@@ -1,10 +1,11 @@
 <?php
 /**
  * Plugin Name:  E3pr0mUX Core
- * Plugin URI:   https://e3pr0mux.local
+ * Plugin URI:   https://www.e3pr0m.com
  * Description:  Custom Post Types (Portfolio, Servizi) e shortcode per il tema E3pr0mUX.
  * Version:      1.0.0
- * Author:       E3pr0mUX
+ * Author:       E3pr0m
+ * Author URI:   https://www.e3pr0m.com
  * Text Domain:  e3pr0mux
  */
 

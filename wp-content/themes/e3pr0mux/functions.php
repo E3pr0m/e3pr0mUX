@@ -1,6 +1,10 @@
 <?php
 /**
  * E3pr0mUX — functions.php
+ *
+ * @author    E3pr0m
+ * @link      https://www.e3pr0m.com
+ * @version   1.0.0
  */
 defined( 'ABSPATH' ) || exit;
 
