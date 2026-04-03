@@ -1,0 +1,24 @@
+# Ignora tutto
+/*
+
+# Eccetto il tema e il plugin custom
+!wp-content/
+wp-content/*
+!wp-content/themes/
+wp-content/themes/*
+!wp-content/themes/e3pr0mux/
+
+!wp-content/plugins/
+wp-content/plugins/*
+!wp-content/plugins/e3pr0mux-core/
+
+# Ignora anche dentro le cartelle tracciate
+**/.DS_Store
+**/Thumbs.db
+**/*.log
+
+# Ignora uploads
+wp-content/uploads/
+
+# Tieni il .gitignore stesso
+!.gitignore
